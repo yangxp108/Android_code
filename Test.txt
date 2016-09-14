@@ -1,5 +1,6 @@
-1313.122213.2
-сют╤╠ё╢Ф╡ж©Бё║
-сют╤╠ё╢Ф╡ж©Бё║
-сют╤╠ё╢Ф╡ж©Бё║
-сют╤╠ё╢Ф╡ж©Бё║
+GitФ▐░Д╨╓Д╩ёГ═│ФЁ╗И┤┼  git commit -m 'yang commit'
+GitФ▐░Д╨╓Д╩ёГ═│Е┬╟ssh GitHub:   git remote add origin https://github.com/yangxp108/Android_code
+Ф╥╩Е┼═Е┬├Ф■╞ git push origin master
+
+
+
