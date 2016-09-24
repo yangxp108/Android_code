@@ -1,6 +1,0 @@
-Git提交代码注释  git commit -m 'yang commit'
-Git提交代码到ssh GitHub:   git remote add origin https://github.com/yangxp108/Android_code
-添加分支 git push origin master
-
-
-
